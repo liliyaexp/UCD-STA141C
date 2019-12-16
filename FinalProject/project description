@@ -1,0 +1,20 @@
+This project aims to find the relationship between time, agencies and recipients with funding taxpayers paid to the U.S. Government. 
+The difference between action date and last modified date indicates the efficacy of the government, 
+and we want to know if the speed is associated with any agency, any party in the office or the amount of transaction funding. 
+
+The second question we want to know is which agencies have the money and which agencies ended up spend the money. 
+
+Moreover, we want to further analyze the recipients of each transaction.	
+
+Final Project Title:
+    Data Analysis Using Cluster: Time, Agencies and Recipients With Funding Taxpayers Paid to the U.S. Government   
+  
+Team Members:
+    Liya Li
+    Chengchen Luo
+    Jixian Fu
+    
+Improvements could have been done:
+    1. Use the more representative portion of data
+    2. Deal with plot sizes and qualities
+    3. Find better model than regression model
