@@ -1,0 +1,9 @@
+The data is available at http://anson.ucdavis.edu/~clarkf/sta141c/ see awards.zip. 
+Inside this zip file are 720 files. 
+Each file corresponds to one agency. 
+0.csv is the exception - it contains those records where the funding agency field was NULL. 
+No need to process 0.csv. 
+
+Download awards.zip onto a local machine. 
+The data is 1.5 GB compressed, and 7.4 GB uncompressed, which becomes unwieldy on a personal machine that only has 8 GB of memory. 
+Look up the meanings of the data and fields at https://www.usaspending.gov/#/.
